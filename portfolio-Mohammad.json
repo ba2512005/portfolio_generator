@@ -1,0 +1,400 @@
+{
+  "name": "Mohammad B. Anwar",
+  "label": "IT Leader – Infrastructure & Security",
+  "image_path": "img/profile.png",
+  "contact": {
+    "email": "ba2512005@gmail.com",
+    "phone": "555-555-5555",
+    "location": "Canton, MI, USA"
+  },
+  "summary": "Highly experienced IT & Security Leader with over 14 years of experience. Unique blend of hands-on technical expertise and robust leadership abilities. Proven track record of successfully navigating complex domains, including security and infrastructure, software, and business. He can quickly adapt to new ideas and execute them with minimal supervision, while delivering outstanding results.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://vantaipsum.com/basharat",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linikedin.com/in/mohammad-anwar",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/ba2512005",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Vanta Ipsum Inc.",
+      "position": "Chief Executive Officer & Founder",
+      "url": "https://vantaipsum.com",
+      "start_date": "01/01/2022",
+      "end_date": "Present",
+      "summary": "At Vanta Ipsum, we provide cutting-edge cybersecurity consulting and AI-driven solutions to help organizations achieve robust server operations and infrastructure management.",
+      "highlights": [
+        "Engineered and deployed client server infrastructure solutions from bare metal servers, ensuring robust, scalable, and high-performance environments.",
+        "Managed the full lifecycle of server hardware and software, including installations, upgrades, and maintenance.",
+        "Designed and implemented diverse virtualization environments using Proxmox, Windows Hyper-V, and VMware.",
+        "Established and maintained robust backup and recovery solutions for client server environments.",
+        "Designed and deployed secure networking infrastructure including bridges, bonds, and firewalls.",
+        "Implemented PCI passthrough configurations for specialized client workloads, including AI applications.",
+        "Developed AI-powered agents to automate routine server management tasks.",
+        "Developed and delivered Cyber Assurance programs focused on strengthening client server security.",
+        "Provided expert IT and infrastructure consultations to clients.",
+        "Conducted comprehensive business and technical reviews of client server operations."
+      ]
+    },
+    {
+      "company": "Akasa (Healthcare AI automation)",
+      "position": "Security Leader",
+      "url": "https://akasa.com",
+      "start_date": "01/01/2022",
+      "end_date": "05/31/2023",
+      "summary": "Led company-wide security initiatives, ensuring compliance and best practices within a healthcare AI context. Impact: Secured the company’s infrastructure, established trust with leadership, allowing better focus on business objectives and maintaining customer trust through compliance.",
+      "highlights": [
+        "Lead a team of technical staff for company-wide security initiatives.",
+        "Engaged regularly with CTO and executives to report on security health.",
+        "Directed compliance and infrastructure team to adhere to security best practices.",
+        "Conducted audits and risk assessments, remediating vulnerabilities.",
+        "Led Implementation of container (Kubernetes) hardening within HIPAA, NIST, SOC2, and ISO policies.",
+        "Managed business relations with vendors for security reviews and remediation.",
+        "Created and managed security budget, optimizing financial efficacy.",
+        "Defined evaluation process and policies for security vendors.",
+        "Designed and implemented secure software processes (encryption, IAM, least privilege, zero trust).",
+        "Developed incident response plans and facilitated tabletop exercises.",
+        "Reduced vulnerabilities through patch and update management strategy.",
+        "Automated tedious tasks (updates, key rotations, onboarding/offboarding, vendor reviews, etc.).",
+        "Partnered with compliance team to promote security awareness.",
+        "Instrumental in leading company for obtaining and maintaining HITRUST certification.",
+        "Implemented upgrade of EDR and asset management tools.",
+        "Tools Used: Python, Kubernetes, AWS (guard duty, securityhub, SSM, cloudtrail, cloudwatch, cloudformation), HITRUST, Darktrace, AlertLogic, Halo, SentinelOne, bitdefender, knowBe4"
+      ]
+    },
+    {
+        "company": "Optiv",
+        "position": "Senior Security Architect",
+        "url": "https://optiv.com",
+        "start_date": "07/01/2020",
+        "end_date": "03/31/2021",
+        "summary": "Headed Architecture team designing and implementing automation software solutions for clients. Impact: Secured client’s infrastructure while providing them with first class services.",
+        "highlights": [
+          "Designed and implemented automation software solutions for clients.",
+          "Developed new methods to deploy ECE cloud at scale using Ansible and AWS.",
+          "Advisor to the Automation Solutions Development Team for auditing playbooks and optimizations.",
+          "Mentored and guided other consultants to foster ideation and innovation.",
+          "Tools Used: IBM Resilient, XSOAR, Swimlane, ECE, AWS, Phantom SOAR (Splunk)"
+        ]
+      },
+      {
+        "company": "Longbow/Veracode",
+        "position": "Senior Security Automation Architect",
+        "url": "https://veracode.com",
+        "start_date": "12/01/2019",
+        "end_date": "03/31/2020",
+        "summary": "Designed and implemented security software automation solutions, supported business development. Impact: Provided cyber automation solutions to improve cyber effectiveness, efficiency, and security insights.",
+        "highlights": [
+          "Designed and implemented security software automation solutions for customers.",
+          "Supported business development in product creation, service line expansion, recruiting, and training.",
+          "Advised on architect and design of security automation playbooks.",
+          "Defined use cases to drive security engineering team for insider threat detection.",
+          "Tools used: XSOAR, Microsoft Project"
+        ]
+      },
+      {
+        "company": "FireEye",
+        "position": "Security Architect",
+        "url": "https://fireeye.com",
+        "start_date": "01/01/2019",
+        "end_date": "12/31/2019",
+        "summary": "Led a team of Security Engineers to develop security automation content.",
+        "highlights": [
+          "Led a team of Security Engineers to develop and refine automation content (workflows, playbooks, plugins).",
+          "Produced official instructional videos for SOAR tooling.",
+          "Collaborated with high-profile customers to review SOC/IR processes and recommend automation.",
+          "Tools Used: Objective Python, PyCharm, FireEye SOAR, Helix"
+        ]
+      },
+      {
+        "company": "General Electric (GE)",
+        "position": "Senior Technical Product Manager",
+        "url": "https://ge.com",
+        "start_date": "08/01/2017",
+        "end_date": "08/31/2018",
+        "summary": "Led 20-member DevOps team for BrilliantYOU learning platform (300,000+ users).",
+        "highlights": [
+          "Managed roadmap, resources, infrastructure, lifecycle for BrilliantYOU platform.",
+          "Oversaw project for intelligent course recommendations using user analytics.",
+          "Managed release of features and improvements for user experience.",
+          "Managed and supported AWS infrastructure operations (up to 400 concurrent users)."
+        ]
+      },
+      {
+        "company": "General Electric (GE)",
+        "position": "Digital Technology Leadership Program (DTLP)",
+        "url": "https://ge.com",
+        "start_date": "07/01/2015",
+        "end_date": "08/31/2017",
+        "summary": "Rotational leadership program focused on digital technology and security.",
+        "highlights": [
+          "Security Architect (NexTech): Led team to design and implement Grand Prize-winning security triage automation solution using Phantom SOAR and ML. Tools: Python Falcon, AWS, Phantom.",
+          "Solution Architect (GETruck): Designed 'Uber for the factory floor' solution optimizing move operations. Impact: 50% efficiency improvement. Tools: LAMP stack, JavaScript, HTML.",
+          "IT Risk – Insider Threat Architect: Managed audit data ingestion into Splunk for insider threat correlation. Rolled out data egress alerting policy. Led POC for ThetaRay Anomaly detection.",
+          "ERP Platform Architect: Designed system for ERP integration visibility and automated fixes. Created ETL tool for data transfer to AWS. Tools: AWS, Java, MySQL, MSSQL, Oracle DB.",
+          "Kronos Cloud Architect: Led POC for next-gen Kronos integration. Implemented load balancer solution for Kronos clock infrastructure. Led POC for Kronos in AWS."
+        ]
+      },
+      {
+        "company": "General Electric (GE)",
+        "position": "IT Team Lead / Intern Roles",
+        "url": "https://ge.com",
+        "start_date": "01/01/2014",
+        "end_date": "05/31/2015",
+        "summary": "Various IT roles focusing on standards, security, development, and infrastructure.",
+        "highlights": [
+          "Brilliant Factory IT - Standards Specialist: Defined standards for machine communication and barcoding.",
+          "Privileged Identity Management – Penetration Testing: Configured and tested CyberArk OPM/SUPM for security compliance, reported vulnerabilities. Tools: CyberArk Pimsu, Vault, Linux.",
+          "Privileged Identity Management – Solutions Development: Designed improved access process using web services and queuing. Tools: C# .NET 4.5, RabbitMQ, CGI, CyberArk.",
+          "Corporate Global Operations IT – Infrastructure Upgrade: Managed global server upgrade (Windows 2003 to 2012). Tools: Windows Server, ITIL, ServiceNow."
+        ]
+      },
+      {
+        "company": "Wayne State University",
+        "position": "IT Support Manager",
+        "url": "https://cus.wsu.edu",
+        "start_date": "02/01/2012",
+        "end_date": "01/31/2014",
+        "summary": "Managed IT operations team supporting 150 users, providing broad IT support services.",
+        "highlights": [
+          "Managed IT support for desktop computers, devices, and applications (Windows/Mac).",
+          "Maintained server infrastructure, managed users, printers, computers via Active Directory.",
+          "Installed, maintained, managed Windows and Mac OS.",
+          "Diagnosed, repaired, set up desktops, laptops, printers, copiers, etc.",
+          "Devised new asset tracking method using object-oriented design.",
+          "Developed skills in database/server admin (AD, MMC), command line diagnostics, advanced Windows tools."
+        ]
+      }
+  ],
+  "projects": [
+    {
+      "title": "NexTech Security Triage Automation",
+      "summary": "Grand prize-winning solution for GE to automate the triage process for handling security threats using Phantom/Splunk SOAR and machine learning to classify incoming files, urls, and emails.",
+      "url": "https://www.linkedin.com/in/mohammad-anwar/overlay/1635450904704/single-media-viewer/?profileId=ACoAABIKblcB1Gv8xSgyHRBYlOkKgBUTbcNR-lU",
+      "highlights": [
+        "Automated security triage of top threat vectors - Files, Urls, Emails. ",
+        "Classified incoming emails as phish, ham, or spam.",
+        "Categorized threats based on certainty levels.",
+        "Leveraged user feedback loop for uncertain classifications.",
+        "Utilized Python Falcon API framework, AWS, Phantom automation platform."
+      ],
+      "images": [
+        {
+          "img_path": "https://www.linkedin.com/in/mohammad-anwar/overlay/1743030497736/single-media-viewer/?profileId=ACoAABIKblcB1Gv8xSgyHRBYlOkKgBUTbcNR-lU",
+          "caption": "Security Automation Workflow"
+        }
+      ]
+    },
+    {
+      "title": "GETruck (Uber for the Factory Floor)",
+      "summary": "Designed and built a solution to optimize GE factory floor move operations, replacing paper tracking with an app-based service tracking forklift move requests.",
+      "url": "https://ge.com",
+      "highlights": [
+        "Improved move operations efficiency by 150%.",
+        "Enabled data analytics on shop floor move processes.",
+        "Built using LAMP stack (Linux, Apache, MySQL, PHP), JavaScript, HTML."
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=2",
+          "caption": "Factory Floor Optimization App"
+        }
+      ]
+    },
+    {
+      "title": "AI Spam Filter",
+      "summary": "Developed a custom AI/NLP based spam filter.",
+      "url": "https://sample.com",
+      "highlights": [
+        "Utilized Natural Language Processing techniques.",
+        "Designed to automatically detect spam in emails."
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=3",
+          "caption": "AI Model Training"
+        }
+      ]
+    }
+  ,{
+    "title": "AI Spam Filter",
+    "summary": "Developed a custom AI/NLP based spam filter.",
+    "url": "https://sample.com",
+    "highlights": [
+      "Utilized Natural Language Processing techniques.",
+      "Designed to automatically detect spam in emails."
+    ],
+    "images": [
+      {
+        "img_path": "https://picsum.photos/600/338?random=3",
+        "caption": "AI Model Training"
+      }
+    ]
+  }
+  ],
+  "volunteer_experience": [
+    {
+        "organization": "Al Maghrib (Michigan)",
+        "position": "Vice President",
+        "url": "https://sample.com",
+        "start_date": "01/01/2022",
+        "end_date": "03/31/2024",
+        "summary": "Led multiple teams, facilitated communication, delegated tasks for large events, and managed stakeholder relations.",
+        "highlights": [
+          "Lead multiple teams of 20+",
+          "Facilitated communication with leadership and stakeholders for roadmap and strategy.",
+          "Delegated tasks for successful events with over 2500+ people.",
+          "Oversaw member involvement and drove engagement, heading advertising/marketing.",
+          "Mentored, guided, and trained youth.",
+          "Built relations with partners and vendors.",
+          "Organized speaker events and workshops.",
+          "Managed VIP hospitality and coordination."
+        ]
+      },
+      {
+        "organization": "BetaCoders",
+        "position": "Lead Instructor",
+        "url": "https://sample.com",
+        "start_date": "03/01/2023",
+        "end_date": "04/30/2024",
+        "summary": "Taught and mentored high school students in Python programming and cybersecurity.",
+        "highlights": [
+          "Teaching and mentoring high schoolers in Python and cyber security.",
+          "Designing projects for real-world application of learning.",
+          "Assigning and grading homework based on practical applications."
+        ]
+      },
+      {
+        "organization": "MCWS",
+        "position": "Youth Coach",
+        "url": "https://mcws.org",
+        "start_date": "05/01/2023",
+        "end_date": "08/30/2024",
+        "summary": "Serve as a youth coach, mentoring and guiding young individuals in their personal and professional development.",
+        "highlights": [
+          "Help youth develop their skills and interests.",
+          "Provide guidance and support in their personal and professional journeys.",
+          "Encourage youth to pursue their passions and goals.",
+          "Foster a positive and inclusive environment for learning and growth.",
+          "Serve as counselor for youth camps and events.",
+          "Coach for Interscholastic tournaments, winning first place in 2023."
+        ]
+      }
+  ],
+  "education": [
+    {
+        "institution": "Indiana University Bloomington",
+        "location": "Bloomington, IN",
+        "url": "https://iu.edu",
+        "degrees": [
+          "Executive Degree in Business Administration"
+        ],
+        "honors": ["Grand Prize winner"],
+        "gpa_cumulative": 4.0,
+        "gpa_major": 4.0,
+        "graduation_date": "07/01/2017"
+      },
+      {
+        "institution": "Wayne State University",
+        "location": "Detroit, MI",
+        "url": "https://wayne.edu",
+        "degrees": [
+          "Bachelor of Science in Computer Science"
+        ],
+        "honors": ["Honors College"],
+        "gpa_cumulative": 3.72,
+        "gpa_major": 3.86,
+        "graduation_date": "05/01/2015"
+      }
+  ],
+  "skills": [
+    { "name": "Compliance: HITRUST, HIPAA, SOC2, NIST SP800-53, ISO 27001, CSF, GDPR, Zero-Trust, Insider Threat", "proficiency": 90, "proficiency_label": "Expert" },
+    { "name": "SOAR: Palo Alto XSOAR, Swimlane, Splunk SOAR (Phantom), IBM Resilient, FireEye FSO/Helix", "proficiency": 95, "proficiency_label": "Expert" },
+    { "name": "SOAR Certified Administrator (Swimlane 2021)", "proficiency": 100, "proficiency_label": "Certified" },
+    { "name": "SIEM: Splunk, ElasticSearch, AlertLogic, AWS SecurityHub, GuardDuty, QRadar, Securonix, Logstash", "proficiency": 85, "proficiency_label": "Advanced" },
+    { "name": "EDR/XDR: SentinelOne, Bitdefender, Microsoft Defender, Cososys, Darktrace", "proficiency": 85, "proficiency_label": "Advanced" },
+    { "name": "Data Protection: CyberArk Vault, PIMSU, Encryption, DLP (Digital Guardian), Google Workspace, SSO, Proxies", "proficiency": 80, "proficiency_label": "Advanced" },
+    { "name": "DAST/SAST: Halo Security, SonarQube, Qualys, Fairwinds", "proficiency": 75, "proficiency_label": "Proficient" },
+    { "name": "IDS/IPS: AWS GuardDuty, Darktrace, AWS SecurityHub, Palo Alto NGFW, Cisco Firewall", "proficiency": 80, "proficiency_label": "Advanced" },
+    { "name": "Email & SaaS Security: Darktrace, Custom NLP Filters, Logicworks, KnowBe4", "proficiency": 80, "proficiency_label": "Advanced" },
+    { "name": "Vulnerability Scanning: AlertLogic, SecurityHub, Nmap, GuardDuty, SSM", "proficiency": 80, "proficiency_label": "Advanced" },
+    { "name": "Cloud & DevOps: AWS, Azure, Kubernetes Hardening, CloudFormation, Ansible, Git, IaaS, CaaS, PaaS, SaaS", "proficiency": 90, "proficiency_label": "Expert" },
+    { "name": "Infrastructure Hardening: Linux/Windows Servers, Kubernetes, Firewalls, Routers, Switches, Cloud NACL/SG/IGW", "proficiency": 90, "proficiency_label": "Expert" },
+    { "name": "Programming: Python, Java, JavaScript (ReactJS, NodeJS), C/C++, .NET C#, Go", "proficiency": 75, "proficiency_label": "Proficient" },
+    { "name": "Web Technologies: HTML, CSS, JavaScript (React, Node.js, Angular)", "proficiency": 70, "proficiency_label": "Proficient" },
+    { "name": "Virtualization: VMware, VirtualBox, Hyper-V, Proxmox", "proficiency": 85, "proficiency_label": "Advanced" },
+    { "name": "Containerization: Docker, Kubernetes Hardening, EKS, CI/CD", "proficiency": 85, "proficiency_label": "Advanced" },
+    { "name": "Penetration Testing: Web/Server Pentest, OWASP Top 10 Mitigation", "proficiency": 70, "proficiency_label": "Proficient" },
+    { "name": "Malware Analysis: Cuckoo Sandbox", "proficiency": 60, "proficiency_label": "Intermediate" },
+    { "name": "CISM (In Progress)", "proficiency": 0, "proficiency_label": "In Progress" }
+  ],
+  "interests": [
+    {
+      "name": "Technology Innovation",
+      "summary": "Exploring cutting-edge technologies, particularly in AI, cybersecurity, and cloud infrastructure.",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=7",
+          "caption": "AI Development"
+        }
+      ]
+    },
+    {
+      "name": "Community Leadership & Mentoring",
+      "summary": "Engaging in volunteer work, mentoring youth, and organizing community events.",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=8",
+          "caption": "Community Event"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Poco"
+    }
+  ],
+  "references": [
+    {
+      "name": "Michael Davis",
+      "relation": "Compliance director @ Akasa",
+      "reference": "510-586-5572"
+    },
+    {
+      "name": "Manpreet Suri",
+      "relation": "Senior product manager @ Carrier",
+      "reference": "202-424-0899"
+    },
+    {
+      "name": "Sean Noreiga",
+      "relation": "Manager of Security @ Akasa",
+      "reference": "510-987-5101"
+    },
+    {
+      "name": "Chris Unick",
+      "relation": "Director @ GE, Trellix",
+      "reference": "203-308-0603"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Gemini Parsed Name",
+  "label": "",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "gemini_parsed_email@example.com",
+    "phone": "",
+    "location": ""
+  },
+  "summary": "",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [],
+  "work_experience": [],
+  "projects": [],
+  "volunteer_experience": [],
+  "education": [],
+  "skills": [],
+  "interests": [],
+  "languages": [],
+  "references": []
+}
